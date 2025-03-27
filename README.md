@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Welcome to my digital playground! I'm a software engineering student from Bogotá, Colombia, turning lines of code into awesome digital experiences.</p>
+<p align="left">🚀 Welcome to my digital playground! 💻 I'm a software engineering student from Colombia, turning lines of code into awesome digital experiences. 🌟🖥️</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Languages: Python, PHP, JavaScript, HTML, CSS<br>Frameworks: Django, Flutter<br>Tools: Git, Visual Studio Code, IntelliJ IDEA<br>Interests: Web Development, Mobile Apps, Cybersecurity, Pentesting</p>
+<p align="left">🐍 Languages: Python, PHP, JavaScript, HTML, CSS<br>🖥️ Frameworks: Django, Flutter<br>💡 Tools: Git, Visual Studio Code, IntelliJ IDEA<br>🕵️ Interests: Web Development, Mobile Apps, Cybersecurity, Pentesting</p>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">I'm passionate about:<br><br>Building innovative solutions<br>Exploring cybersecurity<br>Creating tools that make life easier<br>Learning and growing every single day</p>
+<p align="left">I'm passionate about:<br><br>🚀Building innovative solutions<br>🔒Exploring cybersecurity<br>🛠️Creating tools that make life easier<br>📈Learning and growing every single day</p>
 
 ###
 
@@ -90,7 +90,8 @@
 
 ###
 
-<p align="left">Email: mpastranamoreno@gmail.com<br>LinkedIn: [Coming Soon!]<br>Portfolio: [Work in Progress]</p>
+<p align="left">💼 LinkedIn: <a href="https://www.linkedin.com/in/marlon-pastrana-moreno-1b1806188/" target="_blank" rel="noopener noreferrer" >Perfil</a> <br>🌐 Portfolio: [Work in Progress]</p>
+
 
 ###
 
