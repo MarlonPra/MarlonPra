@@ -90,7 +90,7 @@
 
 ###
 
-<p align="left">💼 LinkedIn: <a href="https://www.linkedin.com/in/marlon-pastrana-moreno-1b1806188/" target="_blank" rel="noopener noreferrer" >Perfil</a> <br>🌐 Portfolio: [Work in Progress]</p>
+<p align="left">💼 LinkedIn: <a href="https://www.linkedin.com/in/marlonpra" target="_blank" rel="noopener noreferrer" >Perfil</a> <br>🌐 Portfolio: [Work in Progress]</p>
 
 
 ###
